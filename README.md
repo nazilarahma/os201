@@ -23,6 +23,8 @@ Selama berkuliah di fasilkom, saya telah mempelajari beberapa kemampuan
 ### Tentang web
 
 Pada awalnya halaman web ini saya buat untuk mencoba-coba dari forum scele yang telah dosen berikan. Kemudian, untuk memenuhi syarat keikutsertaan UAS, kami juga harus memiliki laman web ini. Kemudian, saat UAS berlangsung, kami diminta untuk menambahkan informasi siapa, apa, mengapa mengenai web ini.
+Cek link berikut:
+* [URLs](URLs/)
 
 ### Support or Contact
 
