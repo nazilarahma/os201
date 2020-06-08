@@ -1,0 +1,38 @@
+Script started on Mon Jun  8 20:09:02 2020
+nazila.rahma@badak:~/UAS$ PS1="$ "
+$ echo $GitHubUser
+nazilarahma
+$ echo $PSTAMP
+TMP1="$(date +%y%m%d-%H%M%S)"; TMP2="$(echo $TMP1-$GitHubUser-${PWD##*/}|sha1sum|cut -c1-4)"; echo "$TMP1-$TMP2-${PWD##*/}/> ";
+$ eval $PSTAMP
+200608-200941-3868-UAS/> 
+$ PS1="\$(eval \$PSTAMP)"
+200608-200951-a320-UAS/> PS1="\$(eval \$PSTAMP)"
+200608-201015-d84f-UAS/> echo -e $CEKSAYA
+nazilarahma ZCZCSCRIPTSTART 200601-165731 
+ nazilarahma nazilarahma 200601-165814-588d-nazila.rahma/ 200601-165814 SEQOK SUMOK 588d0a6d 
+ nazilarahma nazilarahma 200601-165823-8737-nazila.rahma/ 200601-165823 SEQOK SUMOK 873726a9 
+ nazilarahma nazilarahma 200601-165953-6eb8-nazila.rahma/ 200601-165953 SEQOK SUMOK 6eb8ffb3 
+ nazilarahma nazilarahma 200601-170011-9471-nazila.rahma/ 200601-170011 SEQOK SUMOK 94719170 
+ nazilarahma ZCZCSCRIPTSTOP 200601-170021 SEQOK 
+
+200608-201041-9aff-UAS/> echo -e $CEKSEBELA1
+nazilarahma ZCZCSCRIPTSTART 200606-170601 nethaniasonya 
+ nazilarahma nethaniasonya 200606-170601-df53-nethania.sonya/ 200606-170601 SEQOK SUMOK df534754 
+ nazilarahma nethaniasonya 200606-170602-43cd-nethania.sonya/ 200606-170602 SEQOK SUMOK 43cdaf87 
+ nazilarahma nethaniasonya 200606-170609-4528-nethania.sonya/ 200606-170609 SEQOK SUMOK 45281649 
+ nazilarahma nethaniasonya 200606-170634-5c7b-nethania.sonya/ 200606-170634 SEQOK SUMOK 5c7bfed7 
+ nazilarahma ZCZCSCRIPTSTOP 200606-170640 SEQOK 
+
+200608-201055-ecce-UAS/> echo -e $CEKSEBELA2
+nazilarahma ZCZCSCRIPTSTART 200602-173115 nota1706 
+ nazilarahma nota1706 200602-173152-96fd-UAS/ 200602-173152 SEQOK SUMOK 96fd421f 
+ nazilarahma nota1706 200602-173207-68be-UAS/ 200602-173207 SEQOK SUMOK 68bed9a5 
+ nazilarahma nota1706 200602-173210-f92a-UAS/ 200602-173210 SEQOK SUMOK f92a4df5 
+ nazilarahma nota1706 200602-173254-9c67-UAS/ 200602-173254 SEQOK SUMOK 9c67cfe4 
+ nazilarahma ZCZCSCRIPTSTOP 200602-173300 SEQOK 
+
+200608-201106-bed8-UAS/> exit
+exit
+
+Script done on Mon Jun  8 20:11:15 2020
