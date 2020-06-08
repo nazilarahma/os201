@@ -1,25 +1,29 @@
-## Welcome to GitHub Pages
+## Welcome to My GitHub Pages
+
+Hallo, nama saya nazila rahma, biasa disapa nazila. Saya adalah mahasiswi FASILKOM UI semester 4, tepatnya di program studi sistem informasi. 
+
+Halaman website ini digunakan untuk kegiatan perkuliahan mata kuliah operation system.
+
+
 
 You can use the [editor on GitHub](https://github.com/nazilarahma/os201/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Tentang saya
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Saya merupakan anak ketiga dari tiga bersaudara, saya perempuan satu-satunya.
+Seperti manusia pada umumnya, saya memiliki beberapa hobi seperti bermain musik (gitar & uklele), bernyanyi, dan jalan-jalan. Namun, semenjak adanya wabah covid19, saya kini memiliki hobi baru yakni memasak. 
 
 ```markdown
-Syntax highlighted code block
+Selama berkuliah di fasilkom, saya telah mempelajari beberapa kemampuan 
 
-# Header 1
-## Header 2
-### Header 3
+# Python
+## javascript
+### css & html
+#### java
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
@@ -28,10 +32,11 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Tentang web
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nazilarahma/os201/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Pada awalnya halaman web ini saya buat untuk mencoba-coba dari forum scele yang telah dosen berikan. Kemudian, untuk memenuhi syarat keikutsertaan UAS, kami juga harus memiliki laman web ini. Kemudian, saat UAS berlangsung, kami diminta untuk menambahkan informasi siapa, apa, mengapa mengenai web ini.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ Check out my [linkedIn](https://www.linkedin.com/in/nazilarahma/) or [Instagram](https://www.instagram.com/nazilarhm/).
+ Jolan Tru!
