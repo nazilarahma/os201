@@ -4,12 +4,6 @@ Hallo, nama saya nazila rahma, biasa disapa nazila. Saya adalah mahasiswi FASILK
 
 Halaman website ini digunakan untuk kegiatan perkuliahan mata kuliah operation system.
 
-
-
-You can use the [editor on GitHub](https://github.com/nazilarahma/os201/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ### Tentang saya
 
 Saya merupakan anak ketiga dari tiga bersaudara, saya perempuan satu-satunya.
@@ -24,13 +18,7 @@ Selama berkuliah di fasilkom, saya telah mempelajari beberapa kemampuan
 #### java
 
 
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Tentang web
 
