@@ -9,16 +9,6 @@ Halaman website ini digunakan untuk kegiatan perkuliahan mata kuliah operation s
 Saya merupakan anak ketiga dari tiga bersaudara, saya perempuan satu-satunya.
 Seperti manusia pada umumnya, saya memiliki beberapa hobi seperti bermain musik (gitar & uklele), bernyanyi, dan jalan-jalan. Namun, semenjak adanya wabah covid19, saya kini memiliki hobi baru yakni memasak. 
 
-```markdown
-Selama berkuliah di fasilkom, saya telah mempelajari beberapa kemampuan 
-
-# Python
-## javascript
-### css & html
-#### java
-
-
-```
 
 ### Tentang web
 
